@@ -10,7 +10,7 @@ export default function Home ({posts}){
   return (
     <div className="container mx-auto px-10 mb-8">
       <Head>
-        <title>TFFS blog website</title>
+        <title>SDD blog website</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FeaturedPosts/>
